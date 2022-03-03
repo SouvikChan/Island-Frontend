@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Images: ![image](https://user-images.githubusercontent.com/89825678/156515964-75c5225b-060b-4b32-9a6e-58396fbec48c.png)
+![image](https://user-images.githubusercontent.com/89825678/156516011-0aedaac3-828a-48a1-aa1f-b6db30702cd3.png)
+
+
 In the project directory, you can run:
 
 ### `npm start`
